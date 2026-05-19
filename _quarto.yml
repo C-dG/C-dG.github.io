@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+  
+website:
+  title: "C-dG"
+  description: ""
+  
+  navbar: 
+    left: 
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: resources.qmd
+        text: Resources
+    
+    right:
+    - icon: Google scholar
+      href: https://scholar.google.com/citations?user=eTPSb1IAAAAJ&hl=en
+    - icon: github
+      href: https://github.com/C-dG
+      
+    page-footer:
+     center: "Built with [Quarto](https://quarto.org/)"
+     
+format:
+  html: 
+    theme: flatly
+    
