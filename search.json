@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "bla bla"
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "About",
+    "section": "",
+    "text": "bla bla"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Index",
+    "section": "",
+    "text": "bla bla bla"
+  },
+  {
+    "objectID": "index.html#corné-de-groot",
+    "href": "index.html#corné-de-groot",
+    "title": "Index",
+    "section": "",
+    "text": "bla bla bla"
+  }
+]
