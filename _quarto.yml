@@ -1,6 +1,7 @@
 project:
   type: website
-  output-dir: _site
+  #output-dir: _site
+  output-dir: docs
   
 website:
   title: "Corné de Groot"
@@ -27,4 +28,8 @@ website:
 format:
   html: 
     theme: flatly
-    
+ 
+ 
+execute: 
+  freeze: auto
+  
