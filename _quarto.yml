@@ -3,8 +3,8 @@ project:
   output-dir: _site
   
 website:
-  title: "C-dG"
-  description: ""
+  title: "Corné de Groot"
+  #description: ""
   
   navbar: 
     left: 
@@ -16,8 +16,8 @@ website:
         text: Resources
     
     right:
-    - icon: Google scholar
-      href: https://scholar.google.com/citations?user=eTPSb1IAAAAJ&hl=en
+    #- icon: Google scholar
+    #  href: https://scholar.google.com/citations?user=eTPSb1IAAAAJ&hl=en
     - icon: github
       href: https://github.com/C-dG
       
