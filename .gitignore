@@ -1,3 +1,8 @@
+# Quarto specific folders
+_site/
+_freeze/
+.quarto/
+
 # History files
 .Rhistory
 .Rapp.history
