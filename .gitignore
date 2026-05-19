@@ -1,6 +1,7 @@
 # Quarto specific folders
 _site/
 _freeze/
+.docs/
 .quarto/
 
 # History files
